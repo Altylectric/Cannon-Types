@@ -343,7 +343,7 @@ sounds:
   #overloading gunpowder
   gunpowderOverloading: 'BLOCK_GRASS_HIT:1:1.5'
   #cooling a cannon
-  cool: 'BLOCK_FIRE_EXTINGUISH:1:1'
+  cool: 'BLOCK_FIRE_EXTINGUISH:1:1' 
   #smoke effects for touching a hot barrel
   hot: 'BLOCK_FIRE_EXTINGUISH:1:1'
   #cleaning with the ramrod
