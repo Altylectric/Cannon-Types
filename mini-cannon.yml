@@ -119,7 +119,7 @@ sentry:
 #enables the linking of several cannons together. Default is limited to the same design
 linkCannons:
   #enables the feature to link cannons
-  enabled: false
+  enabled: true
   #cannons can be link if they are closer than the given range to the operated cannons in a box shape
   distance: 40
 
