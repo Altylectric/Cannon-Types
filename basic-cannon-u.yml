@@ -1,8 +1,8 @@
 general:
   #name of the cannon. This will show of on the cannon sign - therefore keep it short
-  designName: "basic-cannon-d"
+  designName: "basic-cannon-u"
   #This will be used for messages and will replace CANNON in all messages. (e.g. You created a classic cannon)
-  messageName: "Basic Cannon (Down)"
+  messageName: "Basic Cannon (Up)"
   #a short description of the cannon
   description: "A basic cannon!"
   #last user of cannon becomes to it's owner (cannon is public)
@@ -72,12 +72,12 @@ angles:
   minHorizontalAngle: -80.0
   #min and max vertical angles determine how far upwards or downwards the cannon can be aimed
   maxVerticalAngle: 0.0
-  minVerticalAngle: -170.0
+  minVerticalAngle: 170.0
   #if the cannon is on a ship the angles might be smaller
   maxHorizontalAngleOnShip: 50.0
   minHorizontalAngleOnShip: -50.0
   maxVerticalAngleOnShip: 0.0
-  minVerticalAngleOnShip: -170.0
+  minVerticalAngleOnShip: 170.0
   #each change of the angles will change angle by this amount
   angleStepSize: 1.0
   #rougher steps to change cannon direction more quickly
