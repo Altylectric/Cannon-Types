@@ -57,7 +57,7 @@ timings:
   #fuseBurnTime is multiplied with this with this factor. 0 means the burn time is always the same while 1 it can change vary from 1x to 2x the fuseBurnTime
   fuseBurnTimeRandomness: 0.5
   #the time in seconds before the cannon can be fired again. Outdated due to heat management
-  barrelCooldownTime: 3.0
+  barrelCooldownTime: 8.0
   #time to load gunpowder and projectile for autoreload
   loadTime: 0
 
